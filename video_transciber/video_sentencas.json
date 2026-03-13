@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "texto": "ANIMAAA!",
+    "inicio": 0.0,
+    "fim": 0.8,
+    "inicio_fmt": "00:00:00,000",
+    "fim_fmt": "00:00:00,800",
+    "duracao": 0.8,
+    "num_palavras": 1,
+    "num_caracteres": 8,
+    "confianca_media": 0.1827
+  },
+  {
+    "id": 2,
+    "texto": "HAHAHAHAHAHAHA!",
+    "inicio": 3.02,
+    "fim": 4.42,
+    "inicio_fmt": "00:00:03,020",
+    "fim_fmt": "00:00:04,420",
+    "duracao": 1.4,
+    "num_palavras": 1,
+    "num_caracteres": 15,
+    "confianca_media": 0.3542
+  },
+  {
+    "id": 3,
+    "texto": "Ai!",
+    "inicio": 7.56,
+    "fim": 8.26,
+    "inicio_fmt": "00:00:07,560",
+    "fim_fmt": "00:00:08,260",
+    "duracao": 0.7,
+    "num_palavras": 1,
+    "num_caracteres": 3,
+    "confianca_media": 0.1611
+  },
+  {
+    "id": 4,
+    "texto": "Ai!",
+    "inicio": 8.48,
+    "fim": 8.68,
+    "inicio_fmt": "00:00:08,480",
+    "fim_fmt": "00:00:08,680",
+    "duracao": 0.2,
+    "num_palavras": 1,
+    "num_caracteres": 3,
+    "confianca_media": 0.8368
+  },
+  {
+    "id": 5,
+    "texto": "Ai!",
+    "inicio": 8.94,
+    "fim": 9.18,
+    "inicio_fmt": "00:00:08,940",
+    "fim_fmt": "00:00:09,180",
+    "duracao": 0.24,
+    "num_palavras": 1,
+    "num_caracteres": 3,
+    "confianca_media": 0.8889
+  },
+  {
+    "id": 6,
+    "texto": "Ai!",
+    "inicio": 9.94,
+    "fim": 10.08,
+    "inicio_fmt": "00:00:09,940",
+    "fim_fmt": "00:00:10,080",
+    "duracao": 0.14,
+    "num_palavras": 1,
+    "num_caracteres": 3,
+    "confianca_media": 0.8082
+  },
+  {
+    "id": 7,
+    "texto": "Ai!",
+    "inicio": 19.6,
+    "fim": 21.0,
+    "inicio_fmt": "00:00:19,600",
+    "fim_fmt": "00:00:21,000",
+    "duracao": 1.4,
+    "num_palavras": 1,
+    "num_caracteres": 3,
+    "confianca_media": 0.7803
+  },
+  {
+    "id": 8,
+    "texto": "Ai!",
+    "inicio": 21.0,
+    "fim": 21.34,
+    "inicio_fmt": "00:00:21,000",
+    "fim_fmt": "00:00:21,340",
+    "duracao": 0.34,
+    "num_palavras": 1,
+    "num_caracteres": 3,
+    "confianca_media": 0.7319
+  },
+  {
+    "id": 9,
+    "texto": "Ai!",
+    "inicio": 22.2,
+    "fim": 23.6,
+    "inicio_fmt": "00:00:22,200",
+    "fim_fmt": "00:00:23,600",
+    "duracao": 1.4,
+    "num_palavras": 1,
+    "num_caracteres": 3,
+    "confianca_media": 0.6891
+  },
+  {
+    "id": 10,
+    "texto": "EM To learn how to love And forget our dreams Metal bones not healing Life's a bit of pain I'm going up the rails on a crazy train I'm going up the rails on a crazy train I know that things are going wrong for me You gotta listen to my words Metal bone not healing I'm going up the rails on a crazy train You gotta listen to my words Metal bone not healing That's what we think of It's really been trouble I need to lean on To wake up And just stand up and feel it I believe it was something That just isn't fair Metal bone not healing Ruin marks to play I'm going up the rails on a crazy train I'm going up the rails on a crazy train Metal bone not healing",
+    "inicio": 38.64,
+    "fim": 223.84,
+    "inicio_fmt": "00:00:38,640",
+    "fim_fmt": "00:03:43,840",
+    "duracao": 185.2,
+    "num_palavras": 138,
+    "num_caracteres": 657,
+    "confianca_media": 0.5061
+  }
+]

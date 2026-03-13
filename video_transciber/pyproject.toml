@@ -1,0 +1,12 @@
+[project]
+name = "video-transciber"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ffmpeg-python>=0.2.0",
+    "nltk>=3.9.3",
+    "openai-whisper>=20250625",
+    "yt-dlp>=2026.3.13",
+]

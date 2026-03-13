@@ -1,0 +1,29 @@
+[001] 00:00:00,000 → 00:00:00,800  (0.8s | 1 palavras | confiança 18%)
+      ANIMAAA!
+
+[002] 00:00:03,020 → 00:00:04,420  (1.4s | 1 palavras | confiança 35%)
+      HAHAHAHAHAHAHA!
+
+[003] 00:00:07,560 → 00:00:08,260  (0.7s | 1 palavras | confiança 16%)
+      Ai!
+
+[004] 00:00:08,480 → 00:00:08,680  (0.2s | 1 palavras | confiança 84%)
+      Ai!
+
+[005] 00:00:08,940 → 00:00:09,180  (0.2s | 1 palavras | confiança 89%)
+      Ai!
+
+[006] 00:00:09,940 → 00:00:10,080  (0.1s | 1 palavras | confiança 81%)
+      Ai!
+
+[007] 00:00:19,600 → 00:00:21,000  (1.4s | 1 palavras | confiança 78%)
+      Ai!
+
+[008] 00:00:21,000 → 00:00:21,340  (0.3s | 1 palavras | confiança 73%)
+      Ai!
+
+[009] 00:00:22,200 → 00:00:23,600  (1.4s | 1 palavras | confiança 69%)
+      Ai!
+
+[010] 00:00:38,640 → 00:03:43,840  (185.2s | 138 palavras | confiança 51%)
+      EM To learn how to love And forget our dreams Metal bones not healing Life's a bit of pain I'm going up the rails on a crazy train I'm going up the rails on a crazy train I know that things are going wrong for me You gotta listen to my words Metal bone not healing I'm going up the rails on a crazy train You gotta listen to my words Metal bone not healing That's what we think of It's really been trouble I need to lean on To wake up And just stand up and feel it I believe it was something That just isn't fair Metal bone not healing Ruin marks to play I'm going up the rails on a crazy train I'm going up the rails on a crazy train Metal bone not healing
